@@ -49,3 +49,7 @@ if (elementsVisible && elementsNotVisible) {
 		elementsVisible[j].classList.remove('visible');
 	}
 }
+
+function goReferenceGuide() {
+	window.location="https://github.com/jorgekautz/reference-guide";
+}
